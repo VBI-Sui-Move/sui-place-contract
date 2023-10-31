@@ -12,7 +12,6 @@ module sui_place::core{
 
     struct Admin has key {
         id: UID,
-
     }
 
     struct CoreStorage has key {
